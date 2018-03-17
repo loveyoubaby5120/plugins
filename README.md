@@ -1,4 +1,4 @@
-* TERMINAL
+* Language
     * [NodeJS](#NodeJS)
 
 # <a name="NodeJS">NodeJS</a>
