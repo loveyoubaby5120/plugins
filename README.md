@@ -14,7 +14,8 @@ npm i --save puppeteer
 
 # <a name="GO">GO</a>
 ```bash
-# 无头浏览器  selenium
+# WebDriver selenium
+# 可用于测试爬虫
 # https://github.com/tebeka/selenium
 go get github.com/tebeka/selenium
 
