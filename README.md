@@ -1,4 +1,4 @@
-* TERMINAL
+* Language
     * [NodeJS](#NodeJS)
     * [GO](#GO)
 
