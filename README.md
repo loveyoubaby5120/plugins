@@ -1,6 +1,6 @@
 * Language
     * [NodeJS](#NodeJS)
-    * [GO](#GO)
+    * [GOLang](#GOLang)
 
 # <a name="NodeJS">NodeJS</a>
 
@@ -12,7 +12,7 @@ npm i --save puppeteer
 
 ```
 
-# <a name="GO">GO</a>
+# <a name="GOLang">GOLang</a>
 ```bash
 # WebDriver selenium
 # 可用于测试爬虫
